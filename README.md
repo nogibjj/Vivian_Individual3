@@ -3,10 +3,6 @@
 ## Purpose of the project
 The purpose of this project is to build an ETL data pipeline on Databricks, automate the workflow on the platform, then find some insights from the data.
 
-## Video explanation
-
-[Here is the link to the video that explains this project](www.youtube.com)
-
 ## Dataset
 
 The Titanic dataset, a comprehensive collection of passenger information from the infamous 1912 maritime disaster, offers an overview for exploring various facets of machine learning and data analysis, including data on demographics, ticket class, fare, and survival, thereby serving as a cornerstone in predictive modeling and historical insights.
@@ -52,6 +48,10 @@ The ETL pipeline workflow is automated using databricks workflow and `run_job.py
 ## Result of `make format`, `make lint`, `make test`
 
 ![rslt_make](./resources/rslt_make.png)
+
+## Video explanation
+
+[link to the video](www.youtube.com)
 
 ## Reference
 [Professor Noah's ruff template](https://github.com/nogibjj/python-ruff-template)
