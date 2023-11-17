@@ -1,7 +1,4 @@
-[![CI](https://github.com/nogibjj/Individual_Proj_3_Gavin_Li/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual_Proj_3_Gavin_Li/actions/workflows/cicd.yml)
-
-# IDS 706 Data Engineering Individual Project 3
-Gavin Li `gl183`
+# README [![CI](https://github.com/nogibjj/Individual_Proj_3_Gavin_Li/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual_Proj_3_Gavin_Li/actions/workflows/cicd.yml)
 
 ## Purpose of the project
 The purpose of this project is to build an ETL data pipeline on Databricks, automate the workflow on the platform, then find some insights from the data.
