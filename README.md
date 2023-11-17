@@ -1,4 +1,4 @@
-# README [![CI](https://github.com/nogibjj/Individual_Proj_3_Gavin_Li/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual_Proj_3_Gavin_Li/actions/workflows/cicd.yml)
+# README [![Rust CI/CD Pipeline](https://github.com/nogibjj/Individual2_Vivian/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Individual2_Vivian/actions/workflows/ci.yml)
 
 ## Purpose of the project
 The purpose of this project is to build an ETL data pipeline on Databricks, automate the workflow on the platform, then find some insights from the data.
