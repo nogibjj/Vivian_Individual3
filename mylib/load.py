@@ -4,7 +4,7 @@ transform and load function
 
 from pyspark.sql import SparkSession
 
-def load(dataset="dbfs:/FileStore/individual3/train.csv"):
+def load(dataset="dbfs:/FileStore/Vivian_Individual3/train.csv"):
     spark = SparkSession.builder.appName("Read_CSV").getOrCreate()
     # load csv and transform it by inferring schema 
     df = spark.read.csv(dataset, header=True, inferSchema=True)
