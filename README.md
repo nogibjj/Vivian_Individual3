@@ -45,9 +45,6 @@ The ETL pipeline workflow is automated using databricks workflow and `run_job.py
 
 ![workflow](./resources/rslt_workflow.png)
 
-## Result of `make format`, `make lint`, `make test`
-
-![rslt_make](./resources/rslt_make.png)
 
 ## Video explanation
 
